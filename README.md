@@ -27,7 +27,7 @@ This is my first local change to the repo
 
 [Link Text](https://www.google.com/)
 
-![An image of a cat](https://www.shadertoy.com/img/profile.jpg)
+![An image of a profile pic](https://www.shadertoy.com/img/profile.jpg)
 
 ![An image of the Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
